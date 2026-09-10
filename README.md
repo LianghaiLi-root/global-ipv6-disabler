@@ -1,6 +1,7 @@
 # Global IPv6 Disabler (global_ipv6_off)
 
 适用于 **Magisk / KernelSU / APatch** 的模块，在开机时**全局禁用 IPv6**（Wi-Fi 与移动数据），并提供常驻守护进程防止系统在运行中重新启用 IPv6。
+注意：本插件仅ColorOS16 设备OPPO FIND X8上测试并功能完整，如使用本插件请进行自测，如使用本插件造成对设备损坏与作者无关！
 
 ---
 
