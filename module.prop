@@ -2,5 +2,5 @@ id=global_ipv6_off
 name=Global IPv6 Disabler
 version=v1.0
 versionCode=1
-author=Operit
+author=LianghaiLi-root
 description=Globally disable IPv6 for all interfaces (Wi-Fi & mobile) at boot. Has an action (>) toggle menu to switch OFF/ON anytime. Default: OFF.
