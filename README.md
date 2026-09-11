@@ -81,3 +81,7 @@ echo 0 > /data/adb/modules/global_ipv6_off/toggle
 
 - 仅在有 root（Magisk / KernelSU）的设备上有效，请配合对应管理软件安装。
 - 某些区域网络若强制依赖 IPv6，可能会影响部分服务访问，可随时通过 toggle 重新启用。
+
+---
+
+> 本模块由 Operit AI 辅助完成。
